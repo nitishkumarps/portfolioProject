@@ -1,0 +1,9 @@
+.custom-progress {
+  border-radius: 16px;
+  font-size: 12px;
+  height: 1.3rem;
+}
+.custom-progress .progress-bar {
+  background-color: teal;
+  border-radius: 16px;
+}

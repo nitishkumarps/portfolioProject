@@ -1,0 +1,16 @@
+.card.card-style {
+  color: #000 !important;
+  box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+.personal-details {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-top: 20px;
+}
+.personal-details li {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.details {
+  margin-bottom: 15px;
+}

@@ -1,0 +1,41 @@
+h2 .teal-color {
+  color: #009688;
+  font-size: 35px;
+}
+.work-card {
+  padding: 20px 10px;
+  margin-bottom: 10px;
+}
+.work-card h2 {
+  font-weight: 400px;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  justify-content: space-around;
+  padding: 16px 15px;
+}
+.work-card h2 i {
+  margin-right: 16px;
+}
+.work-card .details-data {
+  list-style-type: none;
+}
+.details-data .teal-color {
+  font-size: 15px;
+}
+.details-data i {
+  margin-right: 20px;
+}
+.badge-teal {
+  padding: 5px 8px;
+  background-color: teal;
+  color: white;
+  border-radius: 4px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+.details-data h5,
+h6,
+p {
+  margin-bottom: 20px;
+}
